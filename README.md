@@ -12,7 +12,7 @@
 ### 🎓 Education
 
 **Bachelor of Data Science** — Kathmandu University
-Department of Mathematics · 2nd Year (2023 – Present)
+Department of Mathematics · 2nd Year (2024 – Present)
 Kathmandu, Nepal
 
 ---
