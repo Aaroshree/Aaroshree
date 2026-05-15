@@ -53,16 +53,6 @@ Tools       Git · GitHub · Jupyter · VS Code
 Exploring   Blockchain · Multi-agent systems · NLP
 ```
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaroshree&show_icons=true&theme=default&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect
 
 - 📧 aaroshiegautam@gmail.com
