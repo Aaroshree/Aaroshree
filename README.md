@@ -5,7 +5,6 @@
   Python · Machine Learning · Data Science · Open Source<br>
   GSSoC '26 Contributor · Research-oriented · Building for Nepal
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aaroshree-gautam-a72658343/">LinkedIn</a> ·
   <a href="mailto:aaroshiegautam@gmail.com">Email</a> ·
@@ -15,25 +14,15 @@
 ---
 
 ### 🎓 Education
-
 **Bachelor of Data Science** — Kathmandu University  
 Department of Mathematics · 2nd Year (2024 – Present) · Kathmandu, Nepal
 
 ---
 
 ### 🔬 Research & Competitions
-
-- 📄 **Fraud Detection Framework** — Lightweight multi-agent system for digital payments
-  in Nepal (eSewa, IME Pay). Submitted to Global IME AI/ML Hackathon 2026.
-  5 cooperative agents · Isolation Forest · Sub-100ms latency · NRB-aligned
-
-- 🌐 **Google TMT Hackathon 2026** — Team Tinbhasha
-  Trilingual file translator (Nepali · Tamang · English)
-  CSV, DOC, PDF support with formatting preservation
-
-- 🤖 **GSSoC 2026** — AI Agents Track Contributor
-  Open source contribution to Arnio (C++-accelerated data quality toolkit)
-  PR #362 · Fixes Issue #342 · 20x speedup over pandas demonstrated
+- 📄 **Fraud Detection Framework** — Lightweight multi-agent system for digital payments in Nepal (eSewa, IME Pay). Submitted to Global IME AI/ML Hackathon 2026. 5 cooperative agents · Isolation Forest · Sub-100ms latency · NRB-aligned
+- 🌐 **Google TMT Hackathon 2026** — Team Tinbhasha. Trilingual file translator (Nepali · Tamang · English). CSV, DOC, PDF support with formatting preservation
+- 🤖 **GSSoC 2026** — AI Agents Track Contributor. Open source contribution to Arnio (C++-accelerated data quality toolkit). PR #362 merged · Fixes Issue #342 · Financial CSV cleaning example
 
 ---
 
@@ -43,8 +32,7 @@ Department of Mathematics · 2nd Year (2024 – Present) · Kathmandu, Nepal
 |--------|-------|--------|
 | [Kathmandu Air Quality Dashboard](https://lnkd.in/g7JnZAt3) | Python, SARIMAX, Streamlit | PM2.5 exceeded WHO limits 91% of days; 90-day forecast + health risk score |
 | [Nepal Earthquake Damage Predictor](https://lnkd.in/gdV9A_Um) | Scikit-learn, Pandas | 260K buildings · F1: 0.7194 on DrivenData leaderboard |
-| [Hydropower vs Rainfall Analysis](https://lnkd.in/gdNtg5Qe) | R, ggplot2, tidyverse | Provincial analysis across Nepal 2013–2017 |
-| [Arnio Financial CSV Example](https://github.com/im-anishraj/arnio/pull/362) | Python, Arnio, Jupyter | GSSoC 2026 · Arnio pipeline vs pandas · 20x speedup |
+| [Arnio Financial CSV Example](https://github.com/im-anishraj/arnio/pull/362) | Python, Arnio, Jupyter | GSSoC 2026 · Merged PR #362 |
 | Neural Network from Scratch | Pure Python | No frameworks. Backprop from math. |
 | ShopSphere Sales Dashboard | Python, Matplotlib | Interactive sales dashboard · Faculty recognized |
 | TinBhasha — Multilingual Translator | Python, Google TMT | English · Nepali · Tamang · CSV, PDF, DOCX |
@@ -64,9 +52,8 @@ Exploring     Blockchain · Multi-agent systems · NLP
 ---
 
 ### 📜 Certifications
-
 - 🎓 Python for Data Science — DataCamp
-- 📊 Business Analytics — DataCamp  
+- 📊 Business Analytics — DataCamp
 - 🗄️ SQL for Data Analysis — DataCamp
 
 ---
@@ -75,19 +62,17 @@ Exploring     Blockchain · Multi-agent systems · NLP
 
 | Contribution | Repo | Status |
 |---|---|---|
-| Financial CSV cleaning example notebook | [im-anishraj/arnio](https://github.com/im-anishraj/arnio/pull/362) | PR #362 · Under Review |
+| Financial CSV cleaning example notebook | [im-anishraj/arnio](https://github.com/im-anishraj/arnio/pull/362) | PR #362 · Merged ✅ |
 
 ---
 
 ### 🏃 Activities
-
 - **AIESEC at Kathmandu University** — Business Development Member (2024)
 - **Project Sapana** — Industry Exposure · F1Soft · GrowByData · BhoosGames (2021)
 
 ---
 
 ### 📫 Connect
-
 - 📧 aaroshiegautam@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aaroshree-gautam-a72658343/)
 - 🆔 ORCID: [0009-0001-9776-3228](https://orcid.org/0009-0001-9776-3228)
