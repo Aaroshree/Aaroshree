@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aaroshree Gautam 👋</h1>
 <p align="center">
-  <b>BSc. Data Science · Kathmandu University</b> (2nd year)<br>
+  <b>BSc. Data Science · Kathmandu University</b> (3rd year)<br>
   Department of Mathematics · Kathmandu, Nepal<br><br>
   Python · Machine Learning · Data Science · Open Source<br>
   GSSoC '26 Contributor · Research-oriented · Building for Nepal
@@ -15,7 +15,7 @@
 
 ### 🎓 Education
 **Bachelor of Data Science** — Kathmandu University  
-Department of Mathematics · 2nd Year (2024 – Present) · Kathmandu, Nepal
+Department of Mathematics · 3rd Year (2024 – Present) · Kathmandu, Nepal
 
 ---
 
